@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MusicDownloads()
+comment0.text=Creates\ the\ list\ of\ downloaded\ information.
+comment1.params=
+comment1.target=java.util.List\ getDownloadList()
+comment2.params=title
+comment2.target=DownloadInfo\ getDownloadInfo(java.lang.String)
+comment3.params=titles
+comment3.target=void\ updateDownloads(java.util.List)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=QuadraticEquation()
+comment1.params=a\ b\ c
+comment1.target=QuadraticEquation(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getB()
+comment3.params=b
+comment3.target=void\ setB(int)
+comment4.params=
+comment4.target=int\ calcDiscriminant()
+comment5.params=
+comment5.target=double\ calcRoot1()
+comment6.params=
+comment6.target=double\ calcRoot2()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

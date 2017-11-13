@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=username\ password
+comment1.target=void\ enterSystem(java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ passwordVeri()
+comment11.params=str\ type
+comment11.target=boolean\ counter(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ emailer()
+comment3.params=
+comment3.target=java.lang.String\ fakePhone()
+comment4.params=birth
+comment4.target=java.lang.String\ birther(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ alive()
+comment6.params=
+comment6.target=java.lang.String\ zipper()
+comment7.params=
+comment7.target=java.lang.String\ namer()
+comment8.params=str
+comment8.target=boolean\ isNumString(java.lang.String)
+comment9.params=str
+comment9.target=boolean\ allAlpha(java.lang.String)
+numComments=12

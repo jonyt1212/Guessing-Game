@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=t\ a\ c\ d\ l
+comment0.target=Song(java.lang.String,\ java.lang.String,\ double,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=int\ getLengthInSecs()
+comment3.params=num
+comment3.target=void\ setLengthInSecs(int)
+comment4.params=
+comment4.target=java.lang.String\ convertToMinSecs()
+comment5.params=
+comment5.target=int\ getMinutes()
+comment6.params=
+comment6.target=int\ getSeconds()
+numComments=7
